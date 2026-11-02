@@ -1,0 +1,3 @@
+# Store project files in Git directly. Git LFS is not available here, and
+# GitHub Pages needs the real image and font bytes in the build.
+* text=auto

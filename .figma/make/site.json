@@ -1,0 +1,10 @@
+{
+  "description": "A simple web builder with basic and minimal editing modes, making it easy for beginners to create and customize pages with smooth transitions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
